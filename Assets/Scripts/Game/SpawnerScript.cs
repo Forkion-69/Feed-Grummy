@@ -6,16 +6,15 @@ public class SpawnerScript : MonoBehaviour
     [Header("References")]
     public GameObject fireballPrefab;
     public GameObject foodPrefab;
+    public ProjectileHandler HeaderFile;
 
     [Header("Spawn Points")]
     public List<Vector3> SpawnPoints = new List<Vector3>();
 
 
-    [SerializeField] private float _spawnTime = 3f;
-
     private void Start()
     {
-        InvokeRepeating(nameof(Spawning),1f,_spawnTime);
+        InvokeRepeating(nameof(Spawning),1f,HeaderFile.spawnerTime);
     }
 
     public void Spawning()
@@ -41,5 +40,14 @@ public class SpawnerScript : MonoBehaviour
             break;
         }
         
+    }
+
+    public bool ProbabilityCheck(int itemProbability)
+    {
+        float rnd = Random.Range(1, 101);
+        if (rnd <= itemProbability)
+            return true;
+        else
+            return false;
     }
 }

@@ -3,10 +3,13 @@ using UnityEngine;
 
 public class FireballScript : MonoBehaviour
 {
+    [Header("References")]
+    public ProjectileHandler HeaderFile;
+
     private Rigidbody2D rb;
     private Vector3 GameCenter = new Vector3(0,0,0);
 
-    [SerializeField] private float _moveSpeed;
+
 
     void Start()
     {
@@ -19,13 +22,15 @@ public class FireballScript : MonoBehaviour
         Move();
     }
 
+    //---------------------------------------------------------------------------//
+
     private void Move()
     {
         Vector3 _directionVector = GameCenter - transform.position;
 
         transform.up = _directionVector;
 
-        transform.position = Vector2.MoveTowards(transform.position,GameCenter, _moveSpeed * Time.deltaTime);
+        transform.position = Vector2.MoveTowards(transform.position,GameCenter, HeaderFile.fireballMoveSpeed * Time.deltaTime);
     }
 
     void OnCollisionEnter2D(Collision2D collision)
@@ -33,6 +38,13 @@ public class FireballScript : MonoBehaviour
         if(collision.collider.CompareTag("Player"))
         {
             Destroy(gameObject);
+            GrummyManager.DeductHealth(1);
         }
+    }
+
+    private void OnMouseDown()
+    {
+        Destroy(gameObject);
+        // Debug.Log("Pressed his ahh");
     }
 }
