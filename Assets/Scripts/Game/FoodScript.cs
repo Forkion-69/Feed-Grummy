@@ -16,6 +16,7 @@ public class FoodScript : MonoBehaviour
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        HeaderFile = FindAnyObjectByType<ProjectileHandler>().GetComponent<ProjectileHandler>();
     }
 
     private void Update()     

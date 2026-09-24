@@ -28,4 +28,9 @@ public class GrummyManager : MonoBehaviour
             GameOver();
     }
 
+    void Start()
+    {
+        playerHealth = 5;
+    }
+
 }

@@ -40,7 +40,7 @@ public class ProjectileHandler : MonoBehaviour
 
     public float spawnerTime = 3;
 
-    private int periodCount;
+    [SerializeField] private int periodCount = 1;
 
     [Header("Class & Enum")]
 
@@ -55,6 +55,7 @@ public class ProjectileHandler : MonoBehaviour
     void Start()
     {
         SpeedState = 0;
+        StartCoroutine(nameof(GameLoop));
     }
 
     void Update()
@@ -79,7 +80,6 @@ public class ProjectileHandler : MonoBehaviour
         }
     }
 
-
     #endregion
 
     #region GameLoop
@@ -95,13 +95,17 @@ public class ProjectileHandler : MonoBehaviour
             
 
             //trigger next change
-            SpeedState += (int)SpeedState;
+            if(periodCount == 1)
+            {
+                StateSwitch();
+            }
+            
+
             Wave.wCount +=1;
             //check factors for next change
-
+            CountPeriod(1);
         }
 
-        yield break;
     }
 
     #endregion 
@@ -110,10 +114,22 @@ public class ProjectileHandler : MonoBehaviour
 
     private void CountPeriod(int Increase)
     {
-        if(periodCount < 3)
+        if(periodCount < 4)
         {
             periodCount++;
         }else{periodCount = 0;}
+    }
+
+    private void StateSwitch()
+    {
+        SpeedState = SpeedState switch
+        {
+            ProjectileSpeedState.Slow => ProjectileSpeedState.Medium,
+            ProjectileSpeedState.Medium => ProjectileSpeedState.Fast,
+            ProjectileSpeedState.Fast => ProjectileSpeedState.Inhumane,
+            ProjectileSpeedState.Inhumane => ProjectileSpeedState.Slow,
+            _ => ProjectileSpeedState.Slow       
+        };
     }
 
     #endregion

@@ -151,12 +151,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SpawnerScript
   fireballPrefab: {fileID: 6393817721745787696, guid: 49513c90078d823469fecc306e8276c0, type: 3}
   foodPrefab: {fileID: 5244691065966233458, guid: ec2579074eabb46439a1ce9fb50c9ee2, type: 3}
+  HeaderFile: {fileID: 91283593}
   SpawnPoints:
   - {x: -9, y: 6, z: 0}
   - {x: 9, y: 6, z: 0}
   - {x: 9, y: -6, z: 0}
   - {x: -9, y: -6, z: 0}
-  _spawnTime: 3
 --- !u!4 &91283592
 Transform:
   m_ObjectHideFlags: 0
@@ -184,6 +184,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e3400b34b074c4c47bf5056d17442b34, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  fireballMoveSpeed: 3.5
+  baseFoodSpeed: 3.5
+  spawnerTime: 3
+  periodCount: 0
+  Wave:
+    wCount: 1
+    count: 3
+    speed: 3.5
+    timeForBurst: 1
+    waitTime: 3
+  WaveState: 0
 --- !u!1 &369751924
 GameObject:
   m_ObjectHideFlags: 0
@@ -1178,6 +1189,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3649846262046743069, guid: ec2579074eabb46439a1ce9fb50c9ee2, type: 3}
+      propertyPath: HeaderFile
+      value: 
+      objectReference: {fileID: 91283593}
     - target: {fileID: 5244691065966233458, guid: ec2579074eabb46439a1ce9fb50c9ee2, type: 3}
       propertyPath: m_Name
       value: Food
@@ -1195,6 +1210,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3772829462429110529, guid: 49513c90078d823469fecc306e8276c0, type: 3}
+      propertyPath: HeaderFile
+      value: 
+      objectReference: {fileID: 91283593}
     - target: {fileID: 4130306494397612116, guid: 49513c90078d823469fecc306e8276c0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 7.85

@@ -1,3 +1,4 @@
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -23,6 +24,7 @@ public class SpawnerScript : MonoBehaviour
         float _random2 = Random.Range(SpawnPoints[2].x,SpawnPoints[3].x);
 
         int _decide = Random.Range(0,3);
+        int _isabove = Random.Range(0,2);
 
         switch (_decide)
         {
@@ -49,5 +51,29 @@ public class SpawnerScript : MonoBehaviour
             return true;
         else
             return false;
+    }
+
+    public IEnumerator BurstSpawn(int _count,float _time)
+    {   
+        for (int i = 0; i <= _count; i++)
+        {
+            yield return new WaitForSeconds(_time);
+
+            float _random1 = Random.Range(SpawnPoints[0].x, SpawnPoints[1].x);
+
+            if (ProbabilityCheck(50))
+            {
+            Instantiate(fireballPrefab,new Vector3(_random1,SpawnPoints[0].y,0),Quaternion.identity);
+            }
+            else
+            {Instantiate(fireballPrefab,new Vector3(_random1,SpawnPoints[2].y,0),Quaternion.identity);}
+        }
+
+        yield break;
+    }
+
+    public static void CallBurst(int _count, float _time)
+    {
+        
     }
 }

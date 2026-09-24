@@ -107,8 +107,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abed48c5f8fc9b645bf6d7cfb9e3adcf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FoodScript
+  HeaderFile: {fileID: 0}
   offsetVector: {x: 0, y: 0, z: 0}
-  moveSpeed: 3.5
 --- !u!50 &3146474501425346247
 Rigidbody2D:
   serializedVersion: 5
