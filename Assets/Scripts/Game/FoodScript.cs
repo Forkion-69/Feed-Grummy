@@ -44,6 +44,5 @@ public class FoodScript : MonoBehaviour
     private void OnMouseDown()
     {
         Destroy(gameObject);
-        Debug.Log("Pressed his ahh");
     }
 }

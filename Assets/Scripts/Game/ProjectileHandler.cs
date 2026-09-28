@@ -65,7 +65,7 @@ public class ProjectileHandler : MonoBehaviour
     void Start()
     {
         SpeedState = 0;
-        // StartCoroutine(nameof(GameLoop));
+        StartCoroutine(nameof(GameLoop));
 
     }
 
@@ -157,10 +157,10 @@ public class ProjectileHandler : MonoBehaviour
 
     private void CountPeriod(int Increase)
     {
-        if(periodCount < 4)
+        if(periodCount < 3)
         {
             periodCount += Increase;
-        }else{periodCount = 0;}
+        }else{periodCount = 1;}
     }
 
     private void StateSwitch()
