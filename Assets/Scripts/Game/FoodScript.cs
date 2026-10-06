@@ -1,4 +1,6 @@
 
+using System.Collections.Generic;
+using System.Diagnostics;
 using UnityEngine;
 
 public class FoodScript : MonoBehaviour
@@ -9,14 +11,20 @@ public class FoodScript : MonoBehaviour
 
     private Rigidbody2D rb;
     private Vector3 gameCenter = new Vector3(0,0,0);
+
+    
     [Header("Misc")]
     public Vector3 offsetVector;
+
+    public List<Sprite> _fruitSprites = new List<Sprite>();
 
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         HeaderFile = FindAnyObjectByType<ProjectileHandler>().GetComponent<ProjectileHandler>();
+        ChooseSprite();
+        
     }
 
     private void Update()     
@@ -45,4 +53,34 @@ public class FoodScript : MonoBehaviour
     {
         Destroy(gameObject);
     }
+
+
+    private void ChooseSprite()
+    {
+        int i = Random.Range(0,5);
+
+        SpriteRenderer _sprite = gameObject.AddComponent<SpriteRenderer>();
+
+        switch (i)
+        {
+            case 0:
+                _sprite.sprite = _fruitSprites[0];
+                break;
+            case 1:
+                _sprite.sprite = _fruitSprites[1];
+                break;
+            case 2:
+                _sprite.sprite = _fruitSprites[2];
+                break;
+            case 3:
+                _sprite.sprite = _fruitSprites[3];
+                break;
+            case 4:
+                _sprite.sprite = _fruitSprites[4];
+                break;
+            
+        }
+
+    }
+
 }
