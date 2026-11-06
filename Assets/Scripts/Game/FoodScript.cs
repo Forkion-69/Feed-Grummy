@@ -46,12 +46,13 @@ public class FoodScript : MonoBehaviour
         if(collision.collider.CompareTag("Player"))
         {
             Destroy(gameObject);
+            ScoreManagerScript.AddScore(1);
         }
     }
 
     private void OnMouseDown()
     {
-        Destroy(gameObject);
+        
     }
 
 

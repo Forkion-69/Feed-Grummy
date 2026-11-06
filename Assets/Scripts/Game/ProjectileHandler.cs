@@ -39,6 +39,7 @@ public class ProjectileHandler : MonoBehaviour
     [Header("References")]
     public GameObject fireballPrefab;
     public GameObject foodPrefab;
+    public ParticleSystem fireParticle;
 
     [Header("Spawn Points")]
     public List<Vector3> SpawnPoints = new List<Vector3>();
@@ -134,14 +135,14 @@ public class ProjectileHandler : MonoBehaviour
 
             if (ProbabilityCheck(50))
             {
-                if (ProbabilityCheck(50))
+                if (ProbabilityCheck(25))
                 {
                     Instantiate(foodPrefab,new Vector3(_random1,SpawnPoints[0].y,0),Quaternion.identity);
                 }else{Instantiate(fireballPrefab,new Vector3(_random1,SpawnPoints[0].y,0),Quaternion.identity);}
             }
             else
             {
-            if (ProbabilityCheck(50))
+            if (ProbabilityCheck(25))
                 {
                     Instantiate(foodPrefab,new Vector3(_random1,SpawnPoints[2].y,0),Quaternion.identity);
                 }else{Instantiate(fireballPrefab,new Vector3(_random1,SpawnPoints[2].y,0),Quaternion.identity);}

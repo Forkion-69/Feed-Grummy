@@ -9,7 +9,7 @@ public class FireballScript : MonoBehaviour
     private Rigidbody2D rb;
     private Vector3 GameCenter = new Vector3(0,0,0);
 
-
+    public ParticleSystem fireParticle;
 
     void Start()
     {
@@ -40,12 +40,15 @@ public class FireballScript : MonoBehaviour
         {
             Destroy(gameObject);
             GrummyManager.DeductHealth(1);
+            
         }
     }
 
     private void OnMouseDown()
     {
         Destroy(gameObject);
+        ParticleSystem fireburst = Instantiate(HeaderFile.fireParticle,transform.position, Quaternion.identity);
+        fireburst.Play();
         // Debug.Log("Pressed his ahh");
     }
 }
