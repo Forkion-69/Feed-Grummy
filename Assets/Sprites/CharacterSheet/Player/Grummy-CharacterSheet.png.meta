@@ -131,12 +131,12 @@ TextureImporter:
       name: Grummy-CharacterSheet_0
       rect:
         serializedVersion: 2
-        x: 24
-        y: 513
-        width: 102
-        height: 102
+        x: 25
+        y: 514
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -153,12 +153,12 @@ TextureImporter:
       name: Grummy-CharacterSheet_1
       rect:
         serializedVersion: 2
-        x: 153
-        y: 513
-        width: 102
-        height: 102
+        x: 154
+        y: 514
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -175,12 +175,12 @@ TextureImporter:
       name: Grummy-CharacterSheet_2
       rect:
         serializedVersion: 2
-        x: 282
-        y: 512
-        width: 102
-        height: 102
+        x: 283
+        y: 513
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -197,12 +197,12 @@ TextureImporter:
       name: Grummy-CharacterSheet_3
       rect:
         serializedVersion: 2
-        x: 409
-        y: 513
-        width: 102
-        height: 102
+        x: 410
+        y: 514
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -219,12 +219,12 @@ TextureImporter:
       name: Grummy-CharacterSheet_4
       rect:
         serializedVersion: 2
-        x: 538
-        y: 513
-        width: 102
-        height: 102
+        x: 539
+        y: 514
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -241,12 +241,12 @@ TextureImporter:
       name: Grummy-CharacterSheet_5
       rect:
         serializedVersion: 2
-        x: 665
-        y: 513
-        width: 102
-        height: 102
+        x: 666
+        y: 514
+        width: 100
+        height: 100
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -259,11 +259,363 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Grummy-CharacterSheet_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 384
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473e8def7da26be47bc7f9f7716b58b2
+      internalID: 138889527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grummy-CharacterSheet_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 384
+        width: 101
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc075dc120af2f04d8cffc10f88e4187
+      internalID: 206181519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grummy-CharacterSheet_8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 384
+        width: 99
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fc134c3cf52e849bdefd913631fa58
+      internalID: -1790886995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grummy-CharacterSheet_9
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 387
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0a06383476036439660cc44a081a71
+      internalID: -1791216408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grummy-CharacterSheet_10
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 384
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0792fab5a0cc3534ab594f26198dbaa7
+      internalID: -1778432583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grummy-CharacterSheet_11
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 385
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4268a1883de8bd4a8d56f13551aef72
+      internalID: 1729816729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grummy-CharacterSheet_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9eed315a314894bb3afc0f612d7ac8
+      internalID: -397098009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grummy-CharacterSheet_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 257
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61915ed1180e1f418610043144a440c
+      internalID: 754695418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grummy-CharacterSheet_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 256
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd4118c7b1154249a2bb19c5cb405bc
+      internalID: 310813156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grummy-CharacterSheet_15
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 256
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d74f9e1ac89ff45b5468b0abff502a
+      internalID: 208083897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grummy-CharacterSheet_16
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 256
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201ce105b0f41e24d8aae5e0d4bbeab8
+      internalID: -973723939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grummy-CharacterSheet_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 129
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12befbd8ab4a67d489b482e14db7a579
+      internalID: -1536944317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grummy-CharacterSheet_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 131
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dbf06ae6f97624cb8cfbb6c5e9dcea
+      internalID: -1328307888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grummy-CharacterSheet_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 131
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beb99d724902e647adaa3a03045a222
+      internalID: -79083345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grummy-CharacterSheet_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 131
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9562bf2d61fa1094d8f41d7b3b28081e
+      internalID: -1116759039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grummy-CharacterSheet_21
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 130
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff45fd197a583f4587ecb35710f68cc
+      internalID: 2058031061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 06cf0102fef1bd14cb149aa588bfb049
     internalID: 0
     vertices: []
     indices: 
@@ -271,14 +623,32 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Grummy-CharacterSheet_0: 3381072091409254775
       Grummy-CharacterSheet_1: 9101842101405984411
+      Grummy-CharacterSheet_10: -1778432583
+      Grummy-CharacterSheet_11: 1729816729
+      Grummy-CharacterSheet_12: -397098009
+      Grummy-CharacterSheet_13: 754695418
+      Grummy-CharacterSheet_14: 310813156
+      Grummy-CharacterSheet_15: 208083897
+      Grummy-CharacterSheet_16: -973723939
+      Grummy-CharacterSheet_17: -1536944317
+      Grummy-CharacterSheet_18: -1328307888
+      Grummy-CharacterSheet_19: -79083345
       Grummy-CharacterSheet_2: -968772155526370804
+      Grummy-CharacterSheet_20: -1116759039
+      Grummy-CharacterSheet_21: 2058031061
       Grummy-CharacterSheet_3: -5413985998236090481
       Grummy-CharacterSheet_4: 5360960178317601342
       Grummy-CharacterSheet_5: -703279762382036917
+      Grummy-CharacterSheet_6: 138889527
+      Grummy-CharacterSheet_7: 206181519
+      Grummy-CharacterSheet_8: -1790886995
+      Grummy-CharacterSheet_9: -1791216408
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
