@@ -50,9 +50,15 @@ public class FoodScript : MonoBehaviour
         }
     }
 
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        AnimationController.grummyAnimator.SetTrigger(AnimationController._eatStateID);
+    }
+
     private void OnMouseDown()
     {
-        
+        Destroy(gameObject);
+        AnimationController.grummyAnimator.SetTrigger(AnimationController._doubtStateID);
     }
 
 

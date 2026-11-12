@@ -40,7 +40,7 @@ public class FireballScript : MonoBehaviour
         {
             Destroy(gameObject);
             GrummyManager.DeductHealth(1);
-            
+            AnimationController.grummyAnimator.SetTrigger(AnimationController._hurtStateID);
         }
     }
 
