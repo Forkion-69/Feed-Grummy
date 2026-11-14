@@ -75,18 +75,19 @@ public class ProjectileHandler : MonoBehaviour
         switch (SpeedState)
         {
             case ProjectileSpeedState.Slow:
-                fireballMoveSpeed = 3.5f;
+                Wave.speed = 3.5f;
                 break;
             case ProjectileSpeedState.Medium:
-                fireballMoveSpeed = 4f;
+                Wave.speed = 4f;
                 break;
             case ProjectileSpeedState.Fast:
-                fireballMoveSpeed = 4.8f;
+                Wave.speed = 4.8f;
                 break;
             default:
                 Debug.LogError("State OverFlow");
                 break;
         }
+        fireballMoveSpeed = Wave.speed;
     }
 
     #endregion
@@ -115,8 +116,10 @@ public class ProjectileHandler : MonoBehaviour
                 Wave.count++;
             }else{Debug.LogError("wtf bro");}
             
+
             Wave.wCount +=1;
             CountPeriod(1);
+            DebugChanges();
         }
 
     }
@@ -208,6 +211,11 @@ public class ProjectileHandler : MonoBehaviour
     public void NoTheySeriouslyDont()
     {
         StartCoroutine(nameof(BurstSpawn));
+    }
+
+    public void DebugChanges()
+    {
+    Debug.Log("Wcount: " + Wave.wCount + " Count: " + Wave.count + " Speed: " + Wave.speed + " TimeforBurst: " + Wave.timeForBurst + " WaitTime: " + Wave.waitTime);
     }
 
     #endregion

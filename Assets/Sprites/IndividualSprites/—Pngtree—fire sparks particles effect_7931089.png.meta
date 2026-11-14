@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: b9558cce7e512ff48bd28cb45abf84fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1891567665492973846
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_0"
+  - first:
+      213: -5309233062498063484
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_1"
+  - first:
+      213: -5439994284638898362
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_2"
+  - first:
+      213: -9192487050912824170
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_3"
+  - first:
+      213: 2937878400588049253
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_4"
+  - first:
+      213: -6795874365131846044
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_5"
+  - first:
+      213: -8203280675538585713
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_6"
+  - first:
+      213: -8284951676114169689
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_7"
+  - first:
+      213: -7495929593098929603
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_8"
+  - first:
+      213: -6806736348410454560
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_9"
+  - first:
+      213: -1227911016971799362
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_10"
+  - first:
+      213: -5742393899806646590
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_11"
+  - first:
+      213: 924939406519143490
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_12"
+  - first:
+      213: 8098236224123032809
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_13"
+  - first:
+      213: -7795796117146748198
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_14"
+  - first:
+      213: -3855622395178979180
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_15"
+  - first:
+      213: -2825654779884575924
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_16"
+  - first:
+      213: -1089361946858140183
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_17"
+  - first:
+      213: 506741852037576786
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_18"
+  - first:
+      213: -4218479999953300603
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_19"
+  - first:
+      213: -1462859925324953127
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_20"
+  - first:
+      213: 3725396799267067483
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_21"
+  - first:
+      213: -3457889539816620383
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_22"
+  - first:
+      213: -9161030122298860664
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_23"
+  - first:
+      213: -7922331823588970600
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_24"
+  - first:
+      213: 8444835198225520204
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_25"
+  - first:
+      213: 1125996330404516767
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_26"
+  - first:
+      213: 2174690325600332683
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_27"
+  - first:
+      213: 733917018697927648
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_28"
+  - first:
+      213: 6061377629835442128
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_29"
+  - first:
+      213: 7632298475316130507
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_30"
+  - first:
+      213: 6015349288831331658
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_31"
+  - first:
+      213: -8241801124154654120
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_32"
+  - first:
+      213: -728325618972196895
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_33"
+  - first:
+      213: 8165997396678272306
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_34"
+  - first:
+      213: -6833780627620781793
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_35"
+  - first:
+      213: -1992954155602364735
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_36"
+  - first:
+      213: 220391895844703612
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_37"
+  - first:
+      213: -9004036563769996974
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_38"
+  - first:
+      213: 975591158464519025
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_39"
+  - first:
+      213: 5549922868592770151
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_40"
+  - first:
+      213: 5014307737582516344
+    second: "\u2014Pngtree\u2014fire sparks particles effect_7931089_41"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_0"
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 2369
+        width: 90
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae62dadea3dcfb5e0800000000000000
+      internalID: -1891567665492973846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_1"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2025
+        width: 77
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b2b00c8a0d156b0800000000000000
+      internalID: -5309233062498063484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_2"
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2274
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64771fb35024184b0800000000000000
+      internalID: -5439994284638898362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_3"
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1981
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69486f72bb9bd6080800000000000000
+      internalID: -9192487050912824170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_4"
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2080
+        width: 93
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56be75cf6d075c820800000000000000
+      internalID: 2937878400588049253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_5"
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1880
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e0220654430b1a0800000000000000
+      internalID: -6795874365131846044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_6"
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1807
+        width: 139
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8732bd30b7182e80800000000000000
+      internalID: -8203280675538585713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_7"
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1777
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a010fb9850f50d80800000000000000
+      internalID: -8284951676114169689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_8"
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1570
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3afffd00cb19f790800000000000000
+      internalID: -7495929593098929603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_9"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1385
+        width: 135
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed5141da5d9981a0800000000000000
+      internalID: -6806736348410454560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_10"
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1477
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb47b919f6595fee0800000000000000
+      internalID: -1227911016971799362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_11"
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1138
+        width: 138
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce97a13c2bee40b0800000000000000
+      internalID: -5742393899806646590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_12"
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1351
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c855c5d7b06dc00800000000000000
+      internalID: 924939406519143490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_13"
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1227
+        width: 53
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4dd0680f6b26070800000000000000
+      internalID: 8098236224123032809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_14"
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1236
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada39104cb4cfc390800000000000000
+      internalID: -7795796117146748198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_15"
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1196
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490f05b0cd31e7ac0800000000000000
+      internalID: -3855622395178979180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_16"
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 1058
+        width: 251
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43681bd2f149c8d0800000000000000
+      internalID: -2825654779884575924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_17"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1000
+        width: 87
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed41bdb41fc1e0f0800000000000000
+      internalID: -1089361946858140183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_18"
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 879
+        width: 135
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258f583970f480700800000000000000
+      internalID: 506741852037576786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_19"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 890
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58391be5ac2f475c0800000000000000
+      internalID: -4218479999953300603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_20"
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 800
+        width: 110
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d90ad206a0e2bbe0800000000000000
+      internalID: -1462859925324953127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_21"
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 587
+        width: 142
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56d0b3a6a443b330800000000000000
+      internalID: 3725396799267067483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_22"
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 702
+        width: 37
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aef0b2c8cb1300d0800000000000000
+      internalID: -3457889539816620383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_23"
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 791
+        width: 130
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b19b714ab7dd080800000000000000
+      internalID: -9161030122298860664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_24"
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 891
+        width: 47
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fe4364e293e0290800000000000000
+      internalID: -7922331823588970600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_25"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 627
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4692f0ced4123570800000000000000
+      internalID: 8444835198225520204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_26"
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 470
+        width: 141
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93972c52b750af00800000000000000
+      internalID: 1125996330404516767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_27"
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 596
+        width: 116
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8be2e1445d0e2e10800000000000000
+      internalID: 2174690325600332683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_28"
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 447
+        width: 268
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb8a1ad3a56f2a00800000000000000
+      internalID: 733917018697927648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_29"
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 422
+        width: 265
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d737dbf6d65e1450800000000000000
+      internalID: 6061377629835442128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_30"
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 434
+        width: 114
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc239f0960f5be960800000000000000
+      internalID: 7632298475316130507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_31"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 244
+        width: 127
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4da0b8be40da7350800000000000000
+      internalID: 6015349288831331658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_32"
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 313
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852c8556b8d3f9d80800000000000000
+      internalID: -8241801124154654120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_33"
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 177
+        width: 205
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef785855b774e5f0800000000000000
+      internalID: -728325618972196895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_34"
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 375
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235e5c1fd53735170800000000000000
+      internalID: 8165997396678272306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_35"
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 224
+        width: 103
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11a7b1e9b88921a0800000000000000
+      internalID: -6833780627620781793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_36"
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 0
+        width: 121
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6bead21ca9754e0800000000000000
+      internalID: -1992954155602364735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_37"
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 121
+        width: 48
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dc237f24dfe0300800000000000000
+      internalID: 220391895844703612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_38"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 29
+        width: 130
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2594cdf537c3b0380800000000000000
+      internalID: -9004036563769996974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_39"
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 11
+        width: 383
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b1a4e5dfef98d00800000000000000
+      internalID: 975591158464519025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_40"
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 0
+        width: 205
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cf949b179450d40800000000000000
+      internalID: 5549922868592770151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fire sparks particles effect_7931089_41"
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 6
+        width: 264
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87839150256669540800000000000000
+      internalID: 5014307737582516344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_0": -1891567665492973846
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_1": -5309233062498063484
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_10": -1227911016971799362
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_11": -5742393899806646590
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_12": 924939406519143490
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_13": 8098236224123032809
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_14": -7795796117146748198
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_15": -3855622395178979180
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_16": -2825654779884575924
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_17": -1089361946858140183
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_18": 506741852037576786
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_19": -4218479999953300603
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_2": -5439994284638898362
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_20": -1462859925324953127
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_21": 3725396799267067483
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_22": -3457889539816620383
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_23": -9161030122298860664
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_24": -7922331823588970600
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_25": 8444835198225520204
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_26": 1125996330404516767
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_27": 2174690325600332683
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_28": 733917018697927648
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_29": 6061377629835442128
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_3": -9192487050912824170
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_30": 7632298475316130507
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_31": 6015349288831331658
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_32": -8241801124154654120
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_33": -728325618972196895
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_34": 8165997396678272306
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_35": -6833780627620781793
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_36": -1992954155602364735
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_37": 220391895844703612
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_38": -9004036563769996974
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_39": 975591158464519025
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_4": 2937878400588049253
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_40": 5549922868592770151
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_41": 5014307737582516344
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_5": -6795874365131846044
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_6": -8203280675538585713
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_7": -8284951676114169689
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_8": -7495929593098929603
+      "\u2014Pngtree\u2014fire sparks particles effect_7931089_9": -6806736348410454560
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

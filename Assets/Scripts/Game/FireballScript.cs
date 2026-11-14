@@ -1,10 +1,12 @@
 
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class FireballScript : MonoBehaviour
 {
     [Header("References")]
     public ProjectileHandler HeaderFile;
+    public AudioManager audioManager;
 
     private Rigidbody2D rb;
     private Vector3 GameCenter = new Vector3(0,0,0);
@@ -16,6 +18,7 @@ public class FireballScript : MonoBehaviour
         transform.localScale = new Vector3(1.5f,1.5f,0);
         rb = GetComponent<Rigidbody2D>();
         HeaderFile = FindAnyObjectByType<ProjectileHandler>().GetComponent<ProjectileHandler>();
+        audioManager = FindAnyObjectByType<AudioManager>().GetComponent<AudioManager>();
     }
 
     void Update()
@@ -40,6 +43,7 @@ public class FireballScript : MonoBehaviour
         {
             Destroy(gameObject);
             GrummyManager.DeductHealth(1);
+            audioManager.Play("hit1");
             AnimationController.grummyAnimator.SetTrigger(AnimationController._hurtStateID);
         }
     }
@@ -49,6 +53,8 @@ public class FireballScript : MonoBehaviour
         Destroy(gameObject);
         ParticleSystem fireburst = Instantiate(HeaderFile.fireParticle,transform.position, Quaternion.identity);
         fireburst.Play();
+      
         // Debug.Log("Pressed his ahh");
     }
+
 }
